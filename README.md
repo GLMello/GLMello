@@ -3,12 +3,12 @@
 <h2>👨‍💻 Projetos de segurança digital:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/GLMello/seila)
+  - [NULL](https://github.com/GLMello/seila)
 
 
 <h2>📄 Certificados:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/yadatada)
+- [NULL](https://www.youtube.com/yadatada)
 
 
 <h2> 🤳 Fale comigo:</h2>
