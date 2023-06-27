@@ -13,15 +13,15 @@
 
 <h2> 🤳 Fale comigo:</h2>
 
-[<img align="left" alt="GuilhermeLeon | E-mail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][e-mail]
-[<img align="left" alt="GuilhermeLeon | Whatsapp" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="GuilhermeLeon | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GuilhermeLeon | E-mail" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][e-mail]
+[<img align="left" alt="GuilhermeLeon | Whatsapp" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="GuilhermeLeon | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
 [e-mail]: mailto:rm.leon@outlook.com
-[whatsapp]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[whatsapp]: https://wa.me/5522997908482
+[linkedin]: https://linkedin.com/in/GLeonRM
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
