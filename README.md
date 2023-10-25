@@ -1,4 +1,4 @@
-<h1>Oi, eu sou Guilherme Leon! <br/>
+<h1>Oi, eu sou Guilherme! <br/>
 
 <h2>👨‍💻 Projetos de segurança digital:</h2>
 
