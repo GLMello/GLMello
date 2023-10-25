@@ -7,8 +7,8 @@
 
 
 <h2>📄 Certificados:</h2>
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/34ebb898-7388-45e8-84e4-42910a9beb05/)
-- [Google Cybersecurity Certificate](https://www.credly.com/badges/3859fc72-7df2-4a2f-ac27-b9b489a04ab6/)
+- AWS Certified Cloud Practitioner(https://www.credly.com/badges/34ebb898-7388-45e8-84e4-42910a9beb05/)<br/>
+- Google Cybersecurity Certificate(https://www.credly.com/badges/3859fc72-7df2-4a2f-ac27-b9b489a04ab6/)
 
 
 <h2> 🤳 Fale comigo:</h2>
