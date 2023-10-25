@@ -1,9 +1,11 @@
 <h1>Oi, eu sou Guilherme! <br/>
 
+Sou um entusiasta por Segurança da informação, interessado em aprofundar meu conhecimento e ansioso para ingressar no mercado de trabalho.
+
 <h2>👨‍💻 Projetos de segurança digital:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [NULL](https://github.com/GLMello/seila)
+  - [Projetos Google Cybersecurity](https://github.com/stars/GLMello/lists/google-cybersecurity)
+  - [Gerenciador de Acesso por IP em Python](https://github.com/GLMello/Alg-Updt-Pyth)
 
 
 <h2>📄 Certificados:</h2>
