@@ -8,6 +8,7 @@
 
 <h2>📄 Certificados:</h2>
 
+- [CompTia Security+](https://www.credly.com/badges/d33fcb1c-f799-44c4-a805-0392607ba682/)<br/>
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/34ebb898-7388-45e8-84e4-42910a9beb05/)<br/>
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/3859fc72-7df2-4a2f-ac27-b9b489a04ab6/)
 
