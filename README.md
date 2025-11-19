@@ -10,7 +10,9 @@
 
 - [CompTia Security+](https://www.credly.com/badges/d33fcb1c-f799-44c4-a805-0392607ba682/)<br/>
 - [AWS Solutions Architect Associate](https://www.credly.com/badges/73a214a7-697d-45e6-8ff2-b64f6711d1be/linked_in_profile)<br/>
-- [Google Cybersecurity Certificate](https://www.credly.com/badges/3859fc72-7df2-4a2f-ac27-b9b489a04ab6/)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/3859fc72-7df2-4a2f-ac27-b9b489a04ab6/)<br/>
+- [Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/72d99ddc-42e1-454f-8995-f382ffed6cf4)<br/>
+- [Fortinet FortiGate 7.4 Operator](https://www.credly.com/badges/db8839ef-d384-483e-9f84-8ebb38d7dfb2)
 
 
 <h2> 🤳 Fale comigo:</h2>
