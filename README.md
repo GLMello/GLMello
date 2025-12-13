@@ -1,4 +1,7 @@
 <h1>Oi, eu sou Guilherme! <br/></h1>
+
+ ### You can also read this in: [English](https://github.com/GLMello/MAIN-ENGLISH/)
+ 
 Sou auditor de segurança de dados para treinamento de LLMs, graduado em Defesa Cibernética e Pós-Graduando em Compliance de Cibersegurança pela PUC-RIO. Meu objetivo aqui é organizar meus projetos de cibersegurança e documentar meus avanços em direção a  área de Pentesting e da conquista da certificação OSCP.
   
 <h2> Projetos</h2>
@@ -8,7 +11,7 @@ Sou auditor de segurança de dados para treinamento de LLMs, graduado em Defesa 
   - Resposta a incidentes
     - [Resposta a incidente utilizando o Framework NIST](https://github.com/GLMello/Sim-NIST-Frm)
   - Análises e investigações
-     - [Análise de ataque de rede](https://github.com/GLMello/Analise-Atq-Sim)
+     - [Análise de ataque de rede utilizando a ferramenta WireShark](https://github.com/GLMello/Analise-Atq-Sim)
     
 
 <h2>📄 Certificados:</h2>
