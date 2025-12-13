@@ -1,10 +1,15 @@
-<h1>Oi, eu sou Guilherme! <br/>
+<h1>Oi, eu sou Guilherme! <br/></h1>
+Sou auditor de segurança de dados para treinamento de LLMs, graduado em Defesa Cibernética e Pós-Graduando em Compliance de Cibersegurança pela PUC-RIO. Meu objetivo aqui é organizar meus projetos de cibersegurança e documentar meus avanços em direção a  área de Pentesting e da conquista da certificação OSCP.
+  
+<h2> Projetos</h2>
 
-<h2>👨‍💻 Projetos de segurança digital:</h2>
-
-  - [Projetos Google Cybersecurity](https://github.com/stars/GLMello/lists/google-cybersecurity)
-  - [Gerenciador de Acesso por IP em Python](https://github.com/GLMello/Alg-Updt-Pyth)
-
+  - Gerenciamento de acessos
+    - [Gerenciador de Acesso por IP em Python](https://github.com/GLMello/Alg-Updt-Pyth)
+  - Resposta a incidentes
+    - [Resposta a incidente utilizando o Framework NIST](https://github.com/GLMello/Sim-NIST-Frm)
+  - Análises e investigações
+     - [Análise de ataque de rede](https://github.com/GLMello/Analise-Atq-Sim)
+    
 
 <h2>📄 Certificados:</h2>
 
